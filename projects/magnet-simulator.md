@@ -3,7 +3,7 @@
 ## The Process Pipeline
 
 <p align="center">
-  <img src="https://github.com/ArifNaufalMNazri/ArifNaufalMNazri.github.io/blob/main/images/2dMagnetSimulator.png" alt="Magnet Simulator Process Pipeline" width="100%">
+  <img src="../images/2dMagnetSimulator.png" alt="Magnet Simulator Process Pipeline" width="100%">
 </p>
 
 ## Video of Final Product
