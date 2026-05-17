@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://github.com/ArifNaufalMNazri/ArifNaufalMNazri.github.io/blob/main/images/Arif Naufal Engineering Portfolio (1).png" alt="Arif Naufal Engineering Portfolio Introduction" width="100%">
+  <img src="./images/Arif Naufal Engineering Portfolio (1).png" alt="Arif Naufal Engineering Portfolio Introduction" width="100%">
 </p>
 
 # Hey there, I'm Arif!😃
@@ -9,6 +9,7 @@ I'm a year 11 student who loves building **robotics** and **programming** projec
 ---
 
 ## My tools 🛠️ 
+
 | Software | Hardware | Creative |
 | :--- | :--- | :--- |
 | ![](https://img.shields.io/badge/Language-Python-yellow?style=for-the-badge&logo=python) |![](https://img.shields.io/badge/Hardware-Arduino-%2300979D?style=for-the-badge&logo=arduino&logoColor=white) | ![](https://img.shields.io/badge/Design-Canva-%2300C4CC?style=for-the-badge&logo=canva&logoColor=white)|
