@@ -21,7 +21,7 @@ I'm a year 11 student who loves building **robotics** and **programming** projec
 
 ### 1. 4 DOF Robotic Arm 🦾
 An experiment in hardware-software integration mapping infrared remote signals to a 4 Degrees of Freedom mechanical arm.
-* **Read About It:** [View Project](./projects/robot-arm.md)
+* **Read About It:** [View Project](./projects/robot_arm.md)
 
 ### 2. OpenGL Magnet Simulator 🧲
 A real-time 2D physics simulation simulating force of metal object in a magnetic field based on distance for my physics presentation.
