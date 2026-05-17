@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://github.com/ArifNaufalMNazri/ArifNaufalMNazri.github.io/blob/main/images/Arif%20Naufal%20Engineering%20Portfolio%20(1).png" alt="Arif Naufal Engineering Portfolio Introduction" width="100%">
+  <img src="https://github.com/ArifNaufalMNazri/ArifNaufalMNazri.github.io/blob/main/images/Arif Naufal Engineering Portfolio (1).png" alt="Arif Naufal Engineering Portfolio Introduction" width="100%">
 </p>
 
 # Hey there, I'm Arif!😃
