@@ -18,5 +18,4 @@
 *Moments before the design fell apart. I had to hold it in place long enough to take a photo.*
 
 ## Want to know more? ☁️
-Find out more by following this link to the full repo, containing the *code* and full explanation of the *process*:
-https://github.com/ArifNaufalMNazri/Remote-Controlled-Arduino-Arm/tree/main
+Find out more by following this [link](https://github.com/ArifNaufalMNazri/Remote-Controlled-Arduino-Arm/tree/main) to the full repo, containing the *code* and full explanation of the *process*
