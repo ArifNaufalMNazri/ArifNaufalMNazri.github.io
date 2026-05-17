@@ -4,7 +4,7 @@
 
 ## Brief Explanation
 <p align="center">
-  <img src="https://github.com/ArifNaufalMNazri/ArifNaufalMNazri.github.io/blob/main/images/RobotActuator.png" alt="Arif Naufal Engineering Portfolio Introduction" width="100%">
+  <img src="../images/RobotActuator.png" alt="Arif Naufal Engineering Portfolio Introduction" width="100%">
 </p>
 
 ## Video Of Arm
