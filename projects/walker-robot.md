@@ -18,14 +18,14 @@
 ## Video of Walker Walking
 
 <p align="center">
-  <img src="https://github.com/ArifNaufalMNazri/Walker/blob/main/media/robotImages/RobotWalkingVideo%20-%20Made%20with%20Clipchamp%20(1).gif" height=500 width=100%>
+  <img src="../images/RobotWalkingVideo - Made with Clipchamp (1).gif" height=500 width=100%>
 </p>
 
 ## Previous Failures 
 At first, the robot always keeled over its own weight, but after altering the weight distribution of the robot, it was able to walk. 
 
 <p align="center">
-  <img src="https://github.com/ArifNaufalMNazri/ArifNaufalMNazri.github.io/blob/main/images/20260204_193236-ezgif.com-optimize.gif" height=500 width=100%>
+  <img src="../images/20260204_193236-ezgif.com-optimize.gif" height=500 width=100%>
 </p>
 
 ## Like what you see? ❤️
