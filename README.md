@@ -30,3 +30,7 @@ A real-time 2D physics simulation simulating force of metal object in a magnetic
 ### 3. Kinematic Walker Robot 🚶‍➡️
 A project where I derived inverse kinematics equations, programmed, tested and built a walking robot. 
 * **Read About It:** [View Project](./projects/walker-robot.md)
+
+### 4. Flet Arduino Car Sweeper(Ca-R-oomba) 🚓
+An Arduino car controlled with a custom Flet App coded in Python, and also includes automatic sweeping features. 
+* **Read About It:** [View Project](./projects/README(1).md)
