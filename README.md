@@ -4,9 +4,12 @@
 
 # Hey there, I'm Arif!😃
 
-I'm a year 11 student who loves building **robotics** and **programming** projects to see how their ***logic skeletons*** can come together. This is my <mark style="background-color: yellow; color: black;">`engineering portfolio`</mark>, filled with all of said projects, together with my documented progress and failures along the way.🧭
+I'm a year 11 student who loves building **robotics** and **programming** projects to see how their ***logic skeletons*** can come together. This is my `engineering portfolio` filled with all of said projects, together with my documented progress and failures along the way.🧭
 
----
+Link to **Github** for all my projects: [Click Here](https://github.com/ArifNaufalMNazri)
+
+**Hope you enjoy!**
+
      
 ## My tools 🛠️ 
 
