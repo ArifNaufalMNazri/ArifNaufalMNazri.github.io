@@ -33,4 +33,4 @@ A project where I derived inverse kinematics equations, programmed, tested and b
 
 ### 4. Flet Arduino Car Sweeper(Ca-R-oomba) 🚓
 An Arduino car controlled with a custom Flet App coded in Python, and also includes automatic sweeping features. 
-* **Read About It:** [View Project](./projects/README(1).md)
+* **Read About It:** [View Project](./projects/sweeper_car.md)
